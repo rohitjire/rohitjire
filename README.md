@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate software developer with backend development experience and want to solve business challenges through innovative technology. My expertise lies in analyzing software requirements, developing functional specifications, and implementing scalable applications per business needs. I have a solid foundation in Agile and iterative development methodologies, ensuring the timely delivery of high-quality software products.<br><br>Currently, I'm pursuing my Masters degree in Computer Science from TH Bingen in Germany. I also work as a Working student (Java Backend Developer) at SAP, Germany.
+Hey there! I’m Rohit Jire — a backend-leaning tech enthusiast who loves turning coffee into clean code ☕💻. With a solid foundation in Java and Spring Boot, I’ve been building APIs, squashing bugs, and crafting scalable systems since 2021. Right now, I'm living in Germany and juggling my Master’s in Computer Science while working as a Java Developer — because why not do it all? I thrive in fast-paced environments, love learning new things (currently geeking out on cloud infra and backend optimization), and I’m always down for a good tech meme or a debugging challenge. Let’s build something awesome together 🚀
 
 
 ## 🌐 Socials:
